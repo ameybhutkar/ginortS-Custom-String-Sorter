@@ -10,5 +10,9 @@ Given a string `s` containing alphanumeric characters, sort it using the followi
 3. All **odd digits** (1, 3, 5, 7, 9), sorted ascending  
 4. All **even digits** (0, 2, 4, 6, 8), sorted ascending
 
-https://github.com/user-attachments/assets/fc1b5637-71fb-467f-9839-99d84e943f1e
+
+
+https://github.com/user-attachments/assets/00a992c8-796a-433c-a6b0-390205994b63
+
+
 
